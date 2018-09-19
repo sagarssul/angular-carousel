@@ -13,7 +13,7 @@ npm install -g @angular/cli
    1.  Go to directory
 
        ```bash
-       cd ng-demo
+       cd carousel-demo
        ```
 
    2.  Install the npm packages
