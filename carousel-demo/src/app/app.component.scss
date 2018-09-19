@@ -1,0 +1,30 @@
+$backgroundColor: #525252;
+
+.custom-modal {
+  display: block;
+  top: 16%;
+  width: 425px;
+  height: 460px;
+  left: 36%;
+  background-color: $backgroundColor;
+
+  .modal-header {
+    background-color: #fff;
+    height: 40px;
+
+    .close {
+      padding: 0.3em 0.5em;
+    }
+  }
+
+  .modal-body {
+    background-color: $backgroundColor;
+    padding: 1.8em 1em;
+
+    .card {
+      background-color: #616161;
+      border: 0;
+    }
+  }
+
+}
